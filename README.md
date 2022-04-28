@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<!--<img src="https://wakatime.com/share/@ca10f43f-d00d-4690-a04a-304178539973/7ae42a2a-1d8f-435f-ab32-5dcc56ac52d9.svg"/>-->
+
+[![Ad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdrienRoux&count_private=true&show_icons=true&theme=great-gatsby&include_all_commits=true&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=great-gatsby&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **AdrienRoux/AdrienRoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
